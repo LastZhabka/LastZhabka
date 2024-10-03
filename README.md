@@ -14,7 +14,6 @@
 
 ```yaml
 name: Mukhammadarif Sakhmoldin
-located_in: Hong Kong
 educations:
   - ["BSc in DSCT with an Extended Major in AI", "Aug 2023 - Present"]
 past experiences: 
