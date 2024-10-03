@@ -1,4 +1,4 @@
-<h2> Hi, I'm Arif Sakhmoldin! <img src="https://media.giphy.com/media/YnlQLqedIKQkBJwGYN/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Arif! <img src="https://media.giphy.com/media/YnlQLqedIKQkBJwGYN/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif" width="230">
 <p><em>Math + CSE Student at <a href="https://hkust.edu.hk">Hong Kong University of Science and Technology</a><img src="https://media.giphy.com/media/hQd1EyvVrfxu012N4P/giphy.gif" width="30"></br>
 </em></p>
