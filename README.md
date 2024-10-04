@@ -18,7 +18,10 @@ educations:
   - ["BSc in DSCT with an Extended Major in AI", "Aug 2023 - Present"]
 past experiences: 
   - ["Research Intern", "Huawei HKRC", "Hong Kong", "Jun 2024 - Aug 2024"]
-fields_of_interests: ["Comiplers", "Deep Learning", "Algorithms and Data Strcutures"]
+achievements:
+  - ["Silver medal, "International Olympiad in Informatics (IOI)", "Indonesia, "Aug 2022"]
+fields_of_interests: ["Deep Learning", "Comiplers", "Algorithms and Data Strcutures"]
+
 ```
 
 <img src="https://media.giphy.com/media/dtCcz6dVBp52cpjWB8/giphy.gif" width="60"> <em><b>You’re welcome to explore and contribute to my projects [HERE](https://github.com/orgs/experiments-lain/repositories) </b> :)</em>
