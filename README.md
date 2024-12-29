@@ -12,5 +12,5 @@ past experiences:
   - ["Research Intern", "Huawei HKRC", "Hong Kong", "Jun 2024 - Aug 2024"]
 achievements:
   - ["Silver medal, "International Olympiad in Informatics (IOI)", "Indonesia", "Aug 2022"]
-fields_of_interests: ["Deep Learning", "Comiplers", "Algorithms and Data Strcutures"]
+fields_of_interests: ["Deep Learning", "Compilers", "Information Retrieval", "Algorithms and Data Strcutures"]
 ```
