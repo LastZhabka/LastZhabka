@@ -7,7 +7,7 @@
 ```yaml
 name: Mukhammadarif Sakhmoldin
 educations:
-  - ["BSc in DSCT with an Extended Major in AI", "Aug 2023 - Present"]
+  - ["BSc in DSCT with an Extended Major in AI", "HKUST", "Aug 2023 - Present"]
 past experiences: 
   - ["Research Intern", "Huawei HKRC", "Hong Kong", "Jun 2024 - Aug 2024"]
 achievements:
